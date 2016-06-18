@@ -1,0 +1,12 @@
+/home/paulo/Projetos/b2w-easyquery/src/main/java/com/b2winc/solr/model/BrandSolr.java
+/home/paulo/Projetos/b2w-easyquery/src/main/java/com/b2winc/solr/modeljson/QueryResult.java
+/home/paulo/Projetos/b2w-easyquery/src/main/java/com/b2winc/solr/util/Properties.java
+/home/paulo/Projetos/b2w-easyquery/src/main/java/com/b2winc/solr/config/MvcConfiguration.java
+/home/paulo/Projetos/b2w-easyquery/src/main/java/com/b2winc/solr/model/QueryForm.java
+/home/paulo/Projetos/b2w-easyquery/src/main/java/com/b2winc/solr/model/QueryFormPartner.java
+/home/paulo/Projetos/b2w-easyquery/src/main/java/com/b2winc/solr/util/Validation.java
+/home/paulo/Projetos/b2w-easyquery/src/main/java/com/b2winc/solr/model/IndexedItemSolr.java
+/home/paulo/Projetos/b2w-easyquery/src/main/java/com/b2winc/solr/repository/ItemSolrDao.java
+/home/paulo/Projetos/b2w-easyquery/src/main/java/com/b2winc/solr/QueriesOnSolr/App.java
+/home/paulo/Projetos/b2w-easyquery/src/main/java/com/b2winc/solr/controller/HomeController.java
+/home/paulo/Projetos/b2w-easyquery/src/main/java/com/b2winc/solr/repository/MarketPlaceSolrDao.java
